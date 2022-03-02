@@ -8,7 +8,7 @@ Un ejemplo puede ser cuando los desarrolladores usan TypeScript. A pesar de que 
 
 Por esto mismo es que TypeScript se compila a una versión de JavaScript que sea soportada por la mayoría de los navegadores
 
-<img title="" src="./assets/compiling.png" alt="" data-align="inline">
+![](./assets/compiling.png "compiling-process")
 
 Este proceso ocurre durante la fase de desarrollo mientras editamos nuestro código como "preparación" para la fase de producción 
 
@@ -17,5 +17,4 @@ Este proceso ocurre durante la fase de desarrollo mientras editamos nuestro cód
 Los desarrolladores escriben código que sea fácil de leer para los humanos. El código puede contener información extra que no es necesaria para que el código funcione, como comentarios, espacios, identaciones y múltiples líneas
 
 ![](./assets/minifying.png "minifying-process")
-
 El proceso de minificar un archivo es remover el código innecesario como el formateo y los comentarios sin cambiar la funcionalidad del código
