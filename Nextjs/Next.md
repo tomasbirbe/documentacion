@@ -18,3 +18,7 @@ Los desarrolladores escriben código que sea fácil de leer para los humanos. El
 
 ![](./assets/minifying.png "minifying-process")
 El proceso de minificar un archivo es remover el código innecesario como el formateo y los comentarios sin cambiar la funcionalidad del código
+
+El objetivo de este proceso es disminuir el peso de los archivos para mejorar el rendimiento
+
+En NextJS, los archivos JavaScript y CSS son automaticamente minificados cuando el projecto esta en fase de produccion.
