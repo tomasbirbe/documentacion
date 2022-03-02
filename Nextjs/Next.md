@@ -8,7 +8,7 @@ Un ejemplo puede ser cuando los desarrolladores usan TypeScript. A pesar de que 
 
 Por esto mismo es que TypeScript se compila a una versión de JavaScript que sea soportada por la mayoría de los navegadores
 
-![](.\assets\compiling.png)
+![](./assets/compiling.png)
 
 Este proceso ocurre durante la fase de desarrollo mientras editamos nuestro código como "preparación" para la fase de producción 
 
